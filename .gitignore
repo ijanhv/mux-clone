@@ -1,0 +1,8 @@
+.env
+
+container/.env/
+
+node_modules
+
+
+container/node_modules/
